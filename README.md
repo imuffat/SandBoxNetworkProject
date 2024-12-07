@@ -3,9 +3,9 @@
 
 Brief Introduction
 
-A dedicated cybersecurity student(M.Sc) with foundational knowledge in network security, Cyber Risk Management Frameworks, and data protection. Learning to be Proficient in basic tools and technologies like firewalls, antivirus software, and penetration testing frameworks, Linux Ubuntu distribution, Debian flavor. I am committed to continuous learning, staying updated on emerging threats, and mastering best practices in securing systems and data.
+A dedicated cybersecurity student(M.Sc) with  a profound interest in technology and a dedication to solving complex problems. I have foundational knowledge of network security, Cyber Risk Management Frameworks, and data protection. Learning to be Proficient in basic tools and technologies like firewalls, antivirus software, and penetration testing frameworks, Linux Ubuntu distribution, Debian flavor. I am committed to continuous learning, staying updated on emerging threats, and mastering best practices in securing systems and data.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
 My Network and Security Practices Course Work
 I am currently working on ...
 I am currently learning ...

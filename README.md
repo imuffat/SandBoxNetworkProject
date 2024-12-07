@@ -10,13 +10,38 @@ My journey in computer Electronics and Technology has led me to develop a passio
 
 
 
-My Network and Security Practices Course Work
-I am currently working on ...
-I am currently learning ...
-I am looking to collaborate on ...
-I am looking for help with ...
-Asked me about ...
-How to reach me:...
-Pronounce:...
+### Skills Learned
+Build/design a sandbox network in GNS3 and Packet tracer.
+Configured the very components of the sandbox network to communicate and exchange packets using Virtualbox.
+Learning to analyze and interpret network logs using the Zabbix server and Wireshark.
+Learning about Encryption and Decryption using RSA and AES standards. Also learned about the Hash functions, MD5, and SHA256
+Ability to generate and recognize attack signatures and patterns.
+Learning to build up my knowledge of network protocols and security vulnerabilities.
+Use of SSH to remotely manage the server.
+Development of critical thinking and problem-solving skills in cybersecurity.
+
+
+### Tools Used
+
+VirtualBox
+Ubuntu Desktop 22.04(Management)
+Ubuntu Server 22.04(Gateway Router)
+Bitnami Opencart(Webserver)
+Security Information and Event Management (SIEM) system for log ingestion and analysis.
+Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+Telemetry generation tools to create realistic network traffic and attack scenarios.
+
+
+### Steps
+
+(https://github.com/user-attachments/assets/18088a1f-dfc5-4c77-96c4-24a34883f181)
+
+
+Every screenshot should have some text explaining what the screenshot is about.
+
+Example below.
+
+Ref 1: Network Diagram
+
 Fun Fact: ...
 -->

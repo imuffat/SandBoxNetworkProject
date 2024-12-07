@@ -36,8 +36,7 @@ Telemetry generation tools to create realistic network traffic and attack scenar
 
 Network Diagram designed from packet tracer.
 
-(https://github.com/user-attachments/assets/18088a1f-dfc5-4c77-96c4-24a34883f181)
-
+<img src="https://github.com/user-attachments/assets/18088a1f-dfc5-4c77-96c4-24a34883f181" alt="GitHub Attachment">
 
 Every screenshot should have some text explaining what the screenshot is about.
 

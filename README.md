@@ -1,11 +1,11 @@
 ### Hello i'm Itoro Muffat
 <a href="[https://linkedin.com](https://www.linkedin.com/in/itoro-muffat-1b520554/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Brief Introduction
+### Brief Introduction
 
 A dedicated cybersecurity student(M.Sc) with  a profound interest in technology and a dedication to solving complex problems. I have foundational knowledge of network security, Cyber Risk Management Frameworks, and data protection. Learning to be Proficient in basic tools and technologies like firewalls, antivirus software, and penetration testing frameworks, Linux Ubuntu distribution, Debian flavor. I am committed to continuous learning, staying updated on emerging threats, and mastering best practices in securing systems and data.
 
-## Objective
+### Objective
 My journey in computer Electronics and Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst and a network forensic expert.
 
 

@@ -1,7 +1,11 @@
 ### Hello i'm Itoro Muffat
 <a href="[https://linkedin.com](https://www.linkedin.com/in/itoro-muffat-1b520554/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-My Network and Security Practices Course Work
 
+Brief Introduction
+A dedicated cybersecurity student(M.Sc) with foundational knowledge in network security, Cyber Risk Management Frameworks, and data protection. Learning to be Proficient in basic tools and technologies like firewalls, antivirus software, and penetration testing frameworks, Linux Ubuntu distribution, Debian flavor. I am committed to continuous learning, staying updated on emerging threats, and mastering best practices in securing systems and data.
+
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My Network and Security Practices Course Work
 I am currently working on ...
 I am currently learning ...
 I am looking to collaborate on ...

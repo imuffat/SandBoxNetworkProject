@@ -38,13 +38,13 @@ Network Diagram designed from packet tracer.
 
 ![Network Diagram](Screenshots/NetworkDiagram.png) <br><br/>
 
-<a href="https://github.com/user-attachments/assets/18088a1f-dfc5-4c77-96c4-24a34883f181" target="_blank">View File</a>
+![Network Diagram](Screenshots/NetworkDiagram.png) <br><br/>
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-Ref 1: Network Diagram
-
-Fun Fact: ...
--->
+<figure>
+  <video width="640" height="360" controls>
+    <source src="Screenshots/Portfolio_2_Network_and_Security_Practices_Screen_cast1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Browsing to OpenCart WebServwer </figcaption>
+</figure>

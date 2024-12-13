@@ -68,6 +68,8 @@ Networking Knowledge:
 # VirtualBox Setup
 Creating Virtual Machines: I lunch VirtualBox and click "New" to create the desktop VM. Choose the appropriate OS type and version, allocate memory (e.g., 2GB), and create a virtual hard disk with a suitable size (e.g., 20GB). Repeat the process to create the gateway VM and Application Server VM.<br><br/>
 
+![UbuntuDesktop_InstallationScreen](Screenshots/UbuntuDesktopInstallationSetup.png) <br><br/>
+
 Desktop VM:
 - OS: Ubuntu Desktop.
 - CPU: 2 cores.
@@ -106,6 +108,8 @@ Configure Network Adapters:
   
 # IP Configuration Steps
 **Ubuntu Desktop**:
+
+
 
 After logging in, I assigned the IP to the Ubuntu VM by going to my IPV4 network settings and changing the method to manual to disable DHCP(Automatic Ip address assignment). I then entered the chosen IP, gateway, google dns ip and netmasks in the addresses section, Choose appropriate Mac address and applied the settings.
 

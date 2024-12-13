@@ -52,7 +52,6 @@ IPTable
 
 ![IPTable](Screenshots/IPTable.png) <br><br/>
 
-
 <figure>
   <video width="640" height="360" controls>
     <source src="Screenshots/Portfolio_2_Network_and_Security_Practices_Screen_cast1.mp4" type="video/mp4">
@@ -60,3 +59,77 @@ IPTable
   </video>
   <figcaption>Browsing to OpenCart WebServwer </figcaption>
 </figure>
+
+# Prerequisites
+Hardware Requirements:
+- A host machine with at least 16GB of RAM and a multi-core processor.
+- Sufficient disk space (minimum 50GB free).
+
+Software Requirements:
+- I installed VirtualBox on the host machine.
+- ISO images for the operating systems used (e.g., Ubuntu Server, Ubuntu Desktop).
+- Bitnami Opencart VM for the Application Server.
+
+Networking Knowledge:
+- Basic understanding of IP addressing, routing, and firewall rules.<br><br/>
+
+# VirtualBox Setup
+Creating Virtual Machines: I lunch VirtualBox and click "New" to create the desktop VM. Choose the appropriate OS type and version, allocate memory (e.g., 2GB), and create a virtual hard disk with a suitable size (e.g., 20GB). Repeat the process to create the gateway VM and Application Server VM.<br><br/>
+
+Desktop VM:
+- OS: Ubuntu Desktop.
+- CPU: 2 cores.
+- RAM: 4GB.
+- Storage: 20GB.
+
+Gateway VM:
+- OS: Ubuntu Server.
+- CPU: 2 cores.
+- RAM: 2GB.
+- Storage: 10GB.
+
+Application Server VM:
+- OS: Bitnami Debian WordPress.
+- CPU: 2 cores.
+- RAM: 4GB.
+- Storage: 20GB.<br><br/>
+
+Configure Network Adapters:
+- All VMs use an Internal Network to ensure isolation. I did this by going to network settings in your VirtualBox and changing the adapters from NAT to Internal Network. Rename your Application VM adapter to match the gateway adapter used to communicate with the application server.
+- Configure the Gateway VM to have three adapters:
+  - Adapter 1: Internal Network for communication with Desktop VM
+  - Adapter 2: NAT for internet access.
+  - Adapter 3: Internal Network for communication with Application Server VM (Rename to match with Application Server Adapter)<br><br/>
+  
+# IP Configuration Steps
+**Ubuntu Desktop**:
+
+Once logged in, I assigned the IP to the Ubuntu VM by going to my IPV4 network settings and changing the method to manual to disable DHCP. I then entered the chosen IP, gateway, and netmasks in the addresses section and applied the settings.
+
+**Ubuntu Server**:
+
+Once logged in, we need to assign static IP addresses to the appropriate network interfaces. I did this by editing the network configuration file using **sudo nano /etc/neplan/00-installer-config.yaml**. I edited the file to look like this:
+
+network:
+
+ethernets:
+
+enp0s3: # This corresponds to the first interface (NAT)
+
+dhcp4: true
+
+enp0s8: # This corresponds to the second interface (Internal Network 1)
+
+addresses:
+- 192.168.30.1/24
+
+dhcp4: false
+
+enp0s9: # This corresponds to the third interface (Internal Network 2)
+
+addresses:
+- 192.168.130.1/24
+
+dhcp4: false
+
+version: 2<br><br/>

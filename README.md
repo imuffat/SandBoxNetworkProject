@@ -52,14 +52,6 @@ IPTable
 
 ![IPTable](Screenshots/IPTable.png) <br><br/>
 
-<figure>
-  <video width="640" height="360" controls>
-    <source src="Screenshots/Portfolio_2_Network_and_Security_Practices_Screen_cast1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <figcaption>Browsing to OpenCart WebServwer </figcaption>
-</figure>
-
 # Prerequisites
 Hardware Requirements:
 - A host machine with at least 16GB of RAM and a multi-core processor.

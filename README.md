@@ -115,6 +115,8 @@ After logging in, I assigned the IP to the Ubuntu VM by going to my IPV4 network
 
 **Ubuntu Server**:
 
+![UbuntuServer_Ipaddress_Settings](Screenshots/GatewayStaticIPaddresssettings.png) <br><br/>
+
 After logging in, we I assigned static IP addresses to the appropriate network interfaces. This I did by editing the network configuration file using **sudo nano /etc/neplan/00-installer-config.yaml**. I edited the file to look like this:
 
 network:

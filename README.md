@@ -95,8 +95,8 @@ Application Server VM:
 - Storage: 20GB.<br><br/>
 
 Configure Network Adapters:
-- All VMs use an Internal Network to ensure isolation. I did this by going to network settings in your VirtualBox and changing the adapters from NAT to Internal Network. Rename your Application VM adapter to match the gateway adapter used to communicate with the application server.
-- Configure the Gateway VM to have three adapters:
+- All VMs use an Internal Network to ensure isolation. I did this by going to network settings in your VirtualBox and changing the adapters from NAT to Internal Network. Rename the Application VM adapter to match the gateway adapter used to communicate with the application server.
+- Configure the Gateway VM to have three adapters(adapter 1, adapter 2, adapter 3):
   - Adapter 1: Internal Network for communication with Desktop VM
   - Adapter 2: NAT for internet access.
   - Adapter 3: Internal Network for communication with Application Server VM (Rename to match with Application Server Adapter)<br><br/>
@@ -104,11 +104,11 @@ Configure Network Adapters:
 # IP Configuration Steps
 **Ubuntu Desktop**:
 
-Once logged in, I assigned the IP to the Ubuntu VM by going to my IPV4 network settings and changing the method to manual to disable DHCP. I then entered the chosen IP, gateway, and netmasks in the addresses section and applied the settings.
+After logging in, I assigned the IP to the Ubuntu VM by going to my IPV4 network settings and changing the method to manual to disable DHCP(Automatic Ip address assignment). I then entered the chosen IP, gateway, google dns ip and netmasks in the addresses section, Choose appropriate Mac address and applied the settings.
 
 **Ubuntu Server**:
 
-Once logged in, we need to assign static IP addresses to the appropriate network interfaces. I did this by editing the network configuration file using **sudo nano /etc/neplan/00-installer-config.yaml**. I edited the file to look like this:
+After logging in, we I assigned static IP addresses to the appropriate network interfaces. This I did by editing the network configuration file using **sudo nano /etc/neplan/00-installer-config.yaml**. I edited the file to look like this:
 
 network:
 
@@ -121,14 +121,14 @@ dhcp4: true
 enp0s8: # This corresponds to the second interface (Internal Network 1)
 
 addresses:
-- 192.168.30.1/24
+- 192.168.23.1/24
 
 dhcp4: false
 
 enp0s9: # This corresponds to the third interface (Internal Network 2)
 
 addresses:
-- 192.168.130.1/24
+- 192.168.123.1/24
 
 dhcp4: false
 

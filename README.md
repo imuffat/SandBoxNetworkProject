@@ -180,3 +180,28 @@ netmask 255.255.255.0
 gateway 192.168.130.1
 
 and applied changes by doing a reboot using sudo reboot.<br><br/>
+
+# Functional Test Results
+<figure>
+  <video width="640" height="360" controls>
+    <source src="Screenshots/Portfolio_2_Network_and_Security_Practices_Screen_cast_3.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Video 1: Desktop VM (Ubuntu Desktop)</figcaption>
+</figure>
+<br><br/>
+<figure>
+  <video width="640" height="360" controls>
+    <source src="Screenshots/Portfolio_2_Network_and_Security_Practices_Screen_cast1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Video 2: Gateway VM (Ubuntu Server)</figcaption>
+</figure>
+<br><br/>
+<figure>
+  <video width="640" height="360" controls>
+    <source src="Screenshots/Portfolio_2_Network_and_Security_Practices_Screen_cast2.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption>Video 3: Application VM (Bitnami Opencart)</figcaption>
+</figure>

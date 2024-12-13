@@ -193,6 +193,8 @@ gateway 192.168.130.1
 and applied changes by doing a reboot using sudo reboot.<br><br/>
 
 # Functional Test Results
+# Screen
+
 <figure>
   <video width="640" height="360" controls>
     <source src="Screenshots/Portfolio_2_Network_and_Security_Practices_Screen_cast_3.mp4" type="video/mp4">

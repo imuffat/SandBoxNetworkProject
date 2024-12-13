@@ -92,6 +92,17 @@ Configure Network Adapters:
   - Adapter 1: Internal Network for communication with Desktop VM
   - Adapter 2: NAT for internet access.
   - Adapter 3: Internal Network for communication with Application Server VM (Rename to match with Application Server Adapter)<br><br/>
+
+![UbuntuDesktop](Screenshots/Adapter1settingsforUbuntuDesktop.png) <br><br/>
+
+![UbuntGatewayAdapter1](Screenshots/Adapter1settingsforGateway.png) <br><br/>
+
+![UbuntGatewayAdapter2](Screenshots/Adapter2settingsforGateway.png) <br><br/>
+
+![UbuntGatewayAdapter3_NAT](Screenshots/Adapter3settingsforGatewayNAT.png) <br><br/>
+
+![UbuntGatewayAdapter1_Opencart](Screenshots/AdaptersettingsforOpenCart.png) <br><br/>
+
   
 # IP Configuration Steps
 **Ubuntu Desktop**:

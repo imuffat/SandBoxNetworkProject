@@ -40,6 +40,8 @@ Network Diagram designed from packet tracer.
 
 ![Network Diagram](Screenshots/NetworkDiagram.png) <br><br/>
 
+IPTable
+
 ![IPTable](Screenshots/IPTable.png) <br><br/>
 
 

@@ -1,12 +1,7 @@
 ### Hello i'm Itoro Muffat
+
+## Connect with Me
 <a href="(https://www.linkedin.com/in/itoro-muffat-1b520554/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-doe/)
-
-
-## Connect with Me
 
 ### Brief Introduction
 

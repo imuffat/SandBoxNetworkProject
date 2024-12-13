@@ -109,7 +109,7 @@ Configure Network Adapters:
 # IP Configuration Steps
 **Ubuntu Desktop**:
 
-![UbuntDesktopIpaddressSettings](Screenshots/UbuntuDesktopStaticIPaddresssettings1.png) <br><br/>
+![UbuntDesktop_Ipaddress_Settings](Screenshots/UbuntuDesktopStaticIPaddresssettings1.png) <br><br/>
 
 After logging in, I assigned the IP to the Ubuntu VM by going to my IPV4 network settings and changing the method to manual to disable DHCP(Automatic Ip address assignment). I then entered the chosen IP, gateway, google dns ip and netmasks in the addresses section, Choose appropriate Mac address and applied the settings.
 

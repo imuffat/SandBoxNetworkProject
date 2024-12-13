@@ -176,6 +176,8 @@ sudo netfilter-persistent reload<br><br/>
 
 **Bitnami Opencart**:
 
+![BitnamiOpencart_Ipaddress_Settings](Screenshots/OpenCartStaticIPaddresssettings.png) <br><br/>
+
 After logging in, I applied the chosen static IP address by editing the network configuration file using **sudo nano /etc/network/interfaces**. I edited it to look like:
 
 auto enp0s3

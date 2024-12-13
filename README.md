@@ -30,11 +30,19 @@ Ubuntu Desktop 22.04(Management)
 Ubuntu Server 22.04(Gateway Router)
 Bitnami Opencart(Webserver)
 Security Information and Event Management (SIEM) system for log ingestion and analysis.
-Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+Network analysis tools (such as Wireshark) are used to capture and examine network traffic.
 Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 
 ### Steps to Creating a Sandbox Network
+
+I have outlined my step-by-step implementation of a sandboxed network using VirtualBox. The network has three VMs: a Desktop VM(Ubuntu Desktop - v22.04), a Gateway VM(Ubuntu Server 22.04), and an Application VM(Bitnami Opencart) which is configured in a private sandboxed environment to ensure the network is secure and in isolated communication.
+I set my assigned static IP ranges to the subnets and gateways. I selected **192.168.23.2** for my Desktop VM, **192.168.23.1** for the gateway VM interface card acting as the default gateway for the desktop, **192.168.123.1** for the gateway VM interface card acting as the default gateway for the Application VM(Bitnami Opencart), and **192.168.123.3** for my Application VM. For internet access, I also configured NAT on a third interface card on my gateway server.
+
+Below are the three VMs I used for my sandbox network:
+-	Desktop VM: Ubuntu Desktop(22.04)
+-	Gateway VM: Ubuntu Server(22.04)
+-	Application VM: Bitnami OpenCart <br><br/>
 
 Network Diagram designed from packet tracer.
 

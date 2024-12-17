@@ -68,7 +68,7 @@ Networking Knowledge:
 # VirtualBox Setup
 Creating Virtual Machines: I lunch VirtualBox and click "New" to create the desktop VM. Choose the appropriate OS type and version, allocate memory (e.g., 2GB), and create a virtual hard disk with a suitable size (e.g., 20GB). Repeat the process to create the gateway VM and Application Server VM.<br><br/>
 
-![UbuntuDesktop_Installation_Setup](Screenshots/UbuntuDesktopInstallationSetup.PNG)<br><br/>
+![UbuntuDesktopInstallationSetup](Screenshots/UbuntuDesktopInstallationSetup.png)<br><br/>
 
 Desktop VM:
 - OS: Ubuntu Desktop.

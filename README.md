@@ -212,7 +212,17 @@ Ping Test Between GatewayAdapter-UbuntuDesktop-Webserver
 ![UbuntuDesktop](Screenshots/GatewayUbuntuDesktopPingTest.png) <br><br/>
 
 Ping Test Between Webserver-UbuntuDesktop-GatewayAdapter2
+
 ![UbuntuDesktop](Screenshots/WebServerGatewayAdapter2&2&UbuntuDesktopPingTest.png) <br><br/>
+
+
+# Accesssing the Internet
+
+
+![UbuntuDesktop](Screenshots/BrowsingtotheinternetviatheGateway-RouterFromUbuntuDesktop.png) <br><br/>
+
+
+
 
 # Screen Cast
 <figure>

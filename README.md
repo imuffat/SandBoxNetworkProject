@@ -206,6 +206,9 @@ Ping Test Between UbuntuDesktop-GatewayAdapter2
 
 ![UbuntuDesktop](Screenshots/UbuntuDesktopGatewayAdapter2PingTest.png) <br><br/>
 
+
+Ping Test Between GatewayAdapter-UbuntuDesktop-Webserver
+
 ![UbuntuDesktop](Screenshots/GatewayUbuntuDesktopPingTest.png) <br><br/>
 
 Ping Test Between Webserver-UbuntuDesktop-GatewayAdapter2

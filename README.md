@@ -225,6 +225,11 @@ Accessing to the internet via the Gateway
 ![UbuntuDesktop](Screenshots/Browsingtotheinternet.png) <br><br/>
 
 
+Internet Name resolution to IP address(DNS
+)
+![UbuntuDesktop](Screenshots/DemonstrationofinternetaccessviatheGateway-Router.png) <br><br/>
+
+
 # Screen Cast
 <figure>
   <video width="640" height="360" controls>

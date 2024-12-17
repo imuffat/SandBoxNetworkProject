@@ -209,9 +209,12 @@ Ping Test Between UbuntuDesktop-GatewayAdapter2
 
 Ping Test Between GatewayAdapter-UbuntuDesktop-Webserver
 
+
 ![UbuntuDesktop](Screenshots/GatewayUbuntuDesktopPingTest.png) <br><br/>
 
+
 Ping Test Between Webserver-UbuntuDesktop-GatewayAdapter2
+
 
 ![UbuntuDesktop](Screenshots/WebServerGatewayAdapter2&2&UbuntuDesktopPingTest.png) <br><br/>
 
@@ -219,9 +222,11 @@ Ping Test Between Webserver-UbuntuDesktop-GatewayAdapter2
 # Accesssing the Internet
 
 Browsing to the webserver(Bitnami OpenCart)
+
 ![UbuntuDesktop](Screenshots/BrowsingtotheOpencartwebserverfromUbuntuDesktop.png) <br><br/>
 
 Accessing to the internet via the Gateway
+
 ![UbuntuDesktop](Screenshots/Browsingtotheinternet.png) <br><br/>
 
 

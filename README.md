@@ -219,7 +219,7 @@ Ping Test Between Webserver-UbuntuDesktop-GatewayAdapter2
 # Accesssing the Internet
 
 
-![UbuntuDesktop](Screenshots/BrowsingtotheinternetviatheGateway-RouterFromUbuntuDesktop.png) <br><br/>
+![UbuntuDesktop](Screenshots/BrowsingtotheOpencartwebserverfromUbuntuDesktop.png) <br><br/>
 
 
 

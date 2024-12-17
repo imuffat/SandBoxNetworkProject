@@ -73,6 +73,8 @@ Creating Virtual Machines: I lunch VirtualBox and click "New" to create the desk
 
 ![UbuntuDesktopInstallationSetup](Screenshots/Ubuntudesktop_Installation_2.png)<br><br/>
 
+![UbuntuDesktopInstallationSetup](Screenshots/Ubuntu_Installation_3.png)<br><br/>
+
 Desktop VM:
 - OS: Ubuntu Desktop.
 - CPU: 2 cores.

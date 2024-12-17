@@ -198,6 +198,12 @@ and applied changes by doing a reboot using sudo reboot.<br><br/>
 # Screenshots
 ![UbuntuDesktop](Screenshots/UbuntuDesktopGatewayAdapter1PingTest.png) <br><br/>
 
+![UbuntuDesktop](Screenshots/UbuntuDesktopGatewayAdapter2PingTest.png) <br><br/>
+
+![UbuntuDesktop](Screenshots/GatewayUbuntuDesktopPingTest.png) <br><br/>
+
+![UbuntuDesktop](Screenshots/WebServerGatewayAdapter2&2&UbuntuDesktopPingTest.png) <br><br/>
+
 # Screen Cast
 <figure>
   <video width="640" height="360" controls>

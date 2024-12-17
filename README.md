@@ -29,7 +29,7 @@ VirtualBox
 Ubuntu Desktop 22.04(Management)
 Ubuntu Server 22.04(Gateway Router)
 Bitnami Opencart(Webserver)
-Security Information and Event Management (SIEM) system for log ingestion and analysis.
+Security Information and Event Management (SIEM) system for log ingestion and analysis. Network Monitoring tool(Zabbix),
 Network analysis tools (such as Wireshark) are used to capture and examine network traffic.
 Telemetry generation tools to create realistic network traffic and attack scenarios.
 

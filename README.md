@@ -196,12 +196,19 @@ and applied changes by doing a reboot using sudo reboot.<br><br/>
 # Functional Test Results
 
 # Screenshots
+
+Ping Test Between UbuntuDesktop-GatewayAdapter1
+
 ![UbuntuDesktop](Screenshots/UbuntuDesktopGatewayAdapter1PingTest.png) <br><br/>
+
+
+Ping Test Between UbuntuDesktop-GatewayAdapter2
 
 ![UbuntuDesktop](Screenshots/UbuntuDesktopGatewayAdapter2PingTest.png) <br><br/>
 
 ![UbuntuDesktop](Screenshots/GatewayUbuntuDesktopPingTest.png) <br><br/>
 
+Ping Test Between Webserver-UbuntuDesktop-GatewayAdapter2
 ![UbuntuDesktop](Screenshots/WebServerGatewayAdapter2&2&UbuntuDesktopPingTest.png) <br><br/>
 
 # Screen Cast

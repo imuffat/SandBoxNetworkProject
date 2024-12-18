@@ -265,7 +265,7 @@ Internet Name resolution to IP address(DNS)
   </video>
   <figcaption>Video 3: Application VM (Bitnami Opencart)</figcaption>
 </figure>
-
+<br><br/>
 
 
 Projects

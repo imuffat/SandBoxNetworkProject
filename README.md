@@ -265,3 +265,17 @@ Internet Name resolution to IP address(DNS)
   </video>
   <figcaption>Video 3: Application VM (Bitnami Opencart)</figcaption>
 </figure>
+
+
+Projects
+
+1. Sandboxed Network Setup
+
+2. Network Design with GNS3 & Packet Tracer
+
+3. Virtual Machines Installation & Configuration
+
+4. Performing Denial of Service attack
+
+5. Server Management using SSH.
+   

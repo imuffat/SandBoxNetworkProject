@@ -66,7 +66,7 @@ Software Requirements:
 Networking Knowledge:
 - Basic understanding of IP addressing, routing, and firewall rules.<br><br/>
 
-# VirtualBox Setup
+# VirtualBox Setup of the Machines
 Creating Virtual Machines: I lunch VirtualBox and click "New" to create the desktop VM. Choose the appropriate OS type and version, allocate memory (e.g., 2GB), and create a virtual hard disk with a suitable size (e.g., 20GB). Repeat the process to create the gateway VM and Application Server VM.<br><br/>
 
 Ubuntu Desktop Installation
